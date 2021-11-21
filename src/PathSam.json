@@ -1,0 +1,350 @@
+[
+     {
+          "BraTS21ID": "00001",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00013",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00015",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00027",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00037",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00047",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00079",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00080",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00082",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00091",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00114",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00119",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00125",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00129",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00135",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00145",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00153",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00161",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00163",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00174",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00181",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00182",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00190",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00200",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00208",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00213",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00229",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00252",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00256",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00264",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00287",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00307",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00323",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00333",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00335",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00337",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00355",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00372",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00381",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00384",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00393",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00422",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00428",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00434",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00438",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00447",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00450",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00458",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00460",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00462",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00463",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00467",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00474",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00489",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00492",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00503",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00521",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00535",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00553",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00560",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00573",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00585",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00592",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00595",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00603",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00644",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00647",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00662",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00671",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00681",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00699",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00702",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00712",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00719",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00721",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00749",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00762",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00769",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00779",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00821",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00822",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00825",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00826",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00829",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00833",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "00997",
+          "MGMT_value": "0.5"
+     },
+     {
+          "BraTS21ID": "01006",
+          "MGMT_value": "0.5"
+     }
+]
